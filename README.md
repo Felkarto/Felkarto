@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Daniel Figueira Gomes :man_technologist:</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Olá, me chamo Daniel Gomes :man_technologist:</h1>
 <img src="" alt="Meu OctoCat" align="right" height="450" align="right"/>
 <br/>
 <br/>
@@ -9,7 +9,7 @@
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/felkarto/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/felkarto/)
 
-**Learning:**
+**Aprendendo:**
 
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
