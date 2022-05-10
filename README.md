@@ -9,14 +9,6 @@
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/felkarto/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/felkarto/)
 
-**Currently working with:**
-
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-
 **Learning:**
 
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
@@ -25,30 +17,10 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
-**Previously worked with:**
 
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://unity.com/pt" title="Unity"><img src="icons/unity.png" /></a>
 
 <br/>
 <br/>
 
-<h3 align="center">⭐  Statistics</h3>
 
-|GITHUB STATS|LANGUAGES|
-|:---:|:---:|
-|[![Daniel F. Gomes github stats](https://github-readme-stats.vercel.app/api?username=felkarto&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=felkarto&theme=midnight-purple&layout=compact&langs_count=8)
-
-|GITHUB TROPHIES|
-|:---:|
-|[![trophy](https://github-profile-trophy.vercel.app/?username=felkarto&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
-
-|Wakatime Stats|
-|:---:|
-|[![Daniel F. Gomes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felkarto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 Só dalhe :v::sunglasses:
